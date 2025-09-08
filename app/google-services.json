@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "10220470439",
+    "project_id": "theiere-b671d",
+    "storage_bucket": "theiere-b671d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10220470439:android:37826563741b9e02245b82",
+        "android_client_info": {
+          "package_name": "com.example.theiere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10220470439-27g6fncfbsgpgd55g0pk7332ja8coseg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.theiere",
+            "certificate_hash": "7f61c30cad2028c7c4936dda60229dfc263484a0"
+          }
+        },
+        {
+          "client_id": "10220470439-0stllqv5s6ih9hgv2bv0fdf93m0bt4ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOq4bAbYQtNGQQKQzUcxSYTHt0rtK-WVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10220470439-0stllqv5s6ih9hgv2bv0fdf93m0bt4ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
